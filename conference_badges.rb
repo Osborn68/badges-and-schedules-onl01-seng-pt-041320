@@ -8,5 +8,5 @@ def batch_badge_creator(attendees)
   array.each {|name| "Hello, my name is #{name}!"}  
 end
 badge
-end
+
 
