@@ -19,4 +19,4 @@ def printer
   batch_badge_creator(attendees).each do |name|
   puts badge
 end
-
+end
